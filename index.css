@@ -1,0 +1,48 @@
+
+.img-logo{
+    height: 100px;
+    width:100px;
+}
+
+.Li-list{
+    margin: 10px;
+
+}
+.header-container{
+    border: 2px solid black;
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+    }
+
+    .nav-list{
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+        font-size: 20px;
+        padding: 10px;
+    }
+    
+    
+    .Brand-con{
+        border: 2px solid black;
+        padding: 20px;
+        margin:10px;
+        height:450px;
+        width:200px;
+
+    }
+
+    
+    .Brand-logo{
+      
+
+
+    height: 250px;
+    width:190px;
+    }
+
+    .Body-container{
+     display: flex;
+     flex-wrap: wrap;
+    }
